@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/enkog/JavaScript_Testing_Practice#readme",
   "devDependencies": {
-    "@babel/plugin-transform-modules-commonjs": "^7.15.0"
+    "@babel/plugin-transform-modules-commonjs": "^7.15.0",
+    "jest": "^27.0.6"
   }
 }
